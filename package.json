@@ -1,0 +1,15 @@
+{
+  "name": "latest.js",
+  "version": "0.0.1",
+  "description": "get the latest github release for a repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@sosnik",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "got": "^11.8.5"
+  }
+}
